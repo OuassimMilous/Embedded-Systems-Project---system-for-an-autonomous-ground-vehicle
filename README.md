@@ -71,7 +71,7 @@ The project implements a basic control system for an autonomous ground vehicle. 
 - RD11/RPI75: UART RX
 
 
-# Authors
+# The codes were written by:
 Ouassim Milous 
 Younes Hebik 
 Mohamed Aimen Boulala 
