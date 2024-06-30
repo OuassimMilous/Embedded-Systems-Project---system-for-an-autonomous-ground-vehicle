@@ -72,9 +72,9 @@ The project implements a basic control system for an autonomous ground vehicle. 
 
 
 # The codes were written by:
-Ouassim Milous 
-Younes Hebik 
-Mohamed Aimen Boulala 
+- Ouassim Milous 
+- Younes Hebik 
+- Mohamed Aimen Boulala 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
